@@ -22,6 +22,6 @@ node_modules/.bin/jest sample/fizzbuzz.test.js
 
 ## Testing
 
-テストの実行には`jest`を利用しています。`Jest`の書き方＆読み方については下記のドキュメントを参考にしてください。
+テストの実行には`jest`を利用しています。`jest`の書き方＆読み方については下記のドキュメントを参考にしてください。
 
 * [Facebook製のJavaScriptテストツール「Jest」の逆引き使用例](https://qiita.com/chimame/items/e97883fd46b67529d59f)
